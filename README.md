@@ -4,7 +4,6 @@ Public block explorer for the BTGS Coin network, built on the eIquidus community
 
 ## Live Explorer
 
-- Explorer: https://explorer.btgs.nitopool.online/
 - Official website: https://bitcoingold.site/
 - Source wallet and daemon: https://github.com/BTGSCOINDEV/BTGS
 - X: https://x.com/BTGSGOLD
